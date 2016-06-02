@@ -1,0 +1,296 @@
+﻿<Window x:Class="Typing_Tutor.WordTris"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WordTris" Height="547" Width="567" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded" PreviewKeyDown="Window_PreviewKeyDown"  Closed="Window_Closed" WindowState="Normal" Icon="/Typing%20Tutor;component/Images/BackgroundsWordtris/Tetris.png">
+    <Grid Width="608" Height="552" Margin=" 0,0,0,0" Name="bgbackground">
+        <Grid.Background>
+            <ImageBrush ImageSource="/Typing%20Tutor;component/Images/Backgrounds/background45.png" />
+        </Grid.Background>
+        <Image Height="523" HorizontalAlignment="Left" Margin="0,0,0,0" Name="image1" Stretch="Fill" VerticalAlignment="Top" Width="446" Source="/Typing%20Tutor;component/Images/wordtrisblockbackground.png" />
+        
+        <Grid  Name="rows">
+
+            <Grid Margin="-83,-22,180,491" Name="Rowa">
+                <Label Content="M" Height="47" HorizontalAlignment="Left" Margin="125,28,0,0" Name="row1label1" VerticalAlignment="Top" Foreground="White" Width="33" FontSize="28" />
+                <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="147,28,0,0" Name="row1label2" VerticalAlignment="Top" Width="33" />
+                <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="169,28,0,0" Name="row1label3" VerticalAlignment="Top" Width="33" />
+                <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="191,28,0,0" Name="row1label4" VerticalAlignment="Top" Width="33" />
+                <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="213,28,0,0" Name="row1label5" VerticalAlignment="Top" Width="33" />
+                <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="235,28,0,0" Name="row1label6" VerticalAlignment="Top" Width="33" />
+                <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="257,28,0,0" Name="row1label7" VerticalAlignment="Top" Width="33" />
+                <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="279,28,0,0" Name="row1label8" VerticalAlignment="Top" Width="33" />
+                <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="301,28,0,0" Name="row1label9" VerticalAlignment="Top" Width="33" />
+                <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="323,28,0,0" Name="row1labela" VerticalAlignment="Top" Width="33" />
+                <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="345,28,0,0" Name="row1labeb" VerticalAlignment="Top" Width="33" />
+                <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="367,28,0,0" Name="row1labelc" VerticalAlignment="Top" Width="33" />
+                <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="389,28,0,0" Name="row1labeld" VerticalAlignment="Top" Width="33" />
+                <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="411,28,0,0" Name="row1labele" VerticalAlignment="Top" Width="33" />
+                <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="433,28,0,0" Name="row1labelf" VerticalAlignment="Top" Width="33" />
+            </Grid>
+            
+            <Grid Margin="-81,24,140,12" Name="Rowb">
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="125,28,0,0" Name="row2label1" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="147,28,0,0" Name="row2label2" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="169,28,0,0" Name="row2label3" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="191,28,0,0" Name="row2label4" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="213,28,0,0" Name="row2label5" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="235,28,0,0" Name="row2label6" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="257,28,0,0" Name="row2label7" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="279,28,0,0" Name="row2label8" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="301,28,0,0" Name="row2label9" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="323,28,0,0" Name="row2labela" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="345,28,0,0" Name="row2labelb" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="367,28,0,0" Name="row2labelc" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="388,28,0,0" Name="row2labeld" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="411,28,0,0" Name="row2labele" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="433,28,0,0" Name="row2labelf" VerticalAlignment="Top" Width="33" />
+        </Grid>
+        <Grid Margin="-81,64,147,-33" Name="Rowc">
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="125,28,0,0" Name="row3label1" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="147,28,0,0" Name="row3label2" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="169,28,0,0" Name="row3label3" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="191,28,0,0" Name="row3label4" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="213,28,0,0" Name="row3label5" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="235,28,0,0" Name="row3label6" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="257,28,0,0" Name="row3label7" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="279,28,0,0" Name="row3label8" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="301,28,0,0" Name="row3label9" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="323,28,0,0" Name="row3labela" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="345,28,0,0" Name="row3labelb" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="367,28,0,0" Name="row3labelc" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="388,28,0,0" Name="row3labeld" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="411,28,0,0" Name="row3labele" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="433,28,0,0" Name="row3labelf" VerticalAlignment="Top" Width="33" />
+        </Grid>
+        <Grid Margin="-81,103,208,380" Name="Rowd">
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="125,28,0,0" Name="row4label1" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="147,28,0,0" Name="row4label2" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="169,28,0,0" Name="row4label3" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="191,28,0,0" Name="row4label4" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="213,28,0,0" Name="row4label5" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="235,28,0,0" Name="row4label6" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="257,28,0,0" Name="row4label7" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="279,28,0,0" Name="row4label8" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="301,28,0,0" Name="row4label9" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="323,28,0,0" Name="row4labela" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="345,28,0,0" Name="row4labelb" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="367,28,0,0" Name="row4labelc" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="388,28,0,0" Name="row4labeld" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="411,28,0,0" Name="row4labele" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="433,28,0,0" Name="row4labelf" VerticalAlignment="Top" Width="33" />
+        </Grid>
+        <Grid Margin="-82,148,221,340" Name="Rowe">
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="125,28,0,0" Name="row5label1" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="147,28,0,0" Name="row5label2" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="169,28,0,0" Name="row5label3" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="191,28,0,0" Name="row5label4" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="213,28,0,0" Name="row5label5" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="235,28,0,0" Name="row5label6" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="257,28,0,0" Name="row5label7" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="279,28,0,0" Name="row5label8" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="301,28,0,0" Name="row5label9" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="323,28,0,0" Name="row5labela" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="345,28,0,0" Name="row5labelb" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="367,28,0,0" Name="row5labelc" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="388,28,0,0" Name="row5labeld" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="411,28,0,0" Name="row5labele" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="433,28,0,0" Name="row5label1f" VerticalAlignment="Top" Width="33" />
+        </Grid>
+        <Grid Margin="-81,196,208,288" Name="Rowf">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="197*" />
+                    <ColumnDefinition Width="284*" />
+                </Grid.ColumnDefinitions>
+                <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="125,28,0,0" Name="row6label1" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="147,28,0,0" Name="row6label2" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="169,28,0,0" Name="row6label3" VerticalAlignment="Top" Width="33" Grid.ColumnSpan="2" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="191,28,0,0" Name="row6label4" VerticalAlignment="Top" Width="33" Grid.ColumnSpan="2" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="16,28,0,0" Name="row6label5" VerticalAlignment="Top" Width="33" Grid.Column="1" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="38,28,0,0" Name="row6label6" VerticalAlignment="Top" Width="33" Grid.Column="1" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="60,28,0,0" Name="row6label7" VerticalAlignment="Top" Width="33" Grid.Column="1" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="82,28,0,0" Name="row6label8" VerticalAlignment="Top" Width="33" Grid.Column="1" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="104,28,0,0" Name="row6label9" VerticalAlignment="Top" Width="33" Grid.Column="1" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="126,28,0,0" Name="row6labela" VerticalAlignment="Top" Width="33" Grid.Column="1" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="148,28,0,0" Name="row6labelb" VerticalAlignment="Top" Width="33" Grid.Column="1" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="170,28,0,0" Name="row6labelc" VerticalAlignment="Top" Width="33" Grid.Column="1" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="191,28,0,0" Name="row6labeld" VerticalAlignment="Top" Width="33" Grid.Column="1" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="214,28,0,0" Name="row6labele" VerticalAlignment="Top" Width="33" Grid.Column="1" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="236,28,0,0" Name="row6labelf" VerticalAlignment="Top" Width="33" Grid.Column="1" />
+        </Grid>
+        <Grid Margin="-81,233,208,244" Name="Rowg">
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="125,28,0,0" Name="row7label1" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="147,28,0,0" Name="row7label2" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="169,28,0,0" Name="row7label3" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="191,28,0,0" Name="row7label4" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="213,28,0,0" Name="row7label5" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="235,28,0,0" Name="row7label6" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="257,28,0,0" Name="row7label7" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="279,28,0,0" Name="row7label8" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="301,28,0,0" Name="row7label9" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="323,28,0,0" Name="row7labela" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="345,28,0,0" Name="row7labelb" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="367,28,0,0" Name="row7labelc" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="388,28,0,0" Name="row7labeld" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="411,28,0,0" Name="row7labele" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="433,28,0,0" Name="row7labelf" VerticalAlignment="Top" Width="33" />
+        </Grid>
+            <Grid Margin="-81,318,208,170" Name="Rowi">
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="125,28,0,0" Name="row9label1" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="147,28,0,0" Name="row9label2" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="169,28,0,0" Name="row9label3" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="191,28,0,0" Name="row9label4" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="213,28,0,0" Name="row9label5" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="235,28,0,0" Name="row9label6" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="257,28,0,0" Name="row9label7" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="279,28,0,0" Name="row9label8" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="301,28,0,0" Name="row9label9" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="323,28,0,0" Name="row9labela" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="345,28,0,0" Name="row9labelb" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="367,28,0,0" Name="row9labelc" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="388,28,0,0" Name="row9labeld" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="411,28,0,0" Name="row9labele" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="433,28,0,0" Name="row9labelf" VerticalAlignment="Top" Width="33" />
+        </Grid>
+        <Grid Margin="-82,360,209,118" Name="Rowj">
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="125,28,0,0" Name="rowtlabel1" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="147,28,0,0" Name="rowtlabel2" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="169,28,0,0" Name="rowtlabel3" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="191,28,0,0" Name="rowtlabel4" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="213,28,0,0" Name="rowtlabel5" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="235,28,0,0" Name="rowtlabel6" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="257,28,0,0" Name="rowtlabel7" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="279,28,0,0" Name="rowtlabel8" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="301,28,0,0" Name="rowtlabel9" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="323,28,0,0" Name="rowtlabela" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="345,28,0,0" Name="rowtlabelb" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="367,28,0,0" Name="rowtlabelc" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="388,28,0,0" Name="rowtlabeld" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="411,28,0,0" Name="rowtlabele" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="433,28,0,0" Name="rowtlabelf" VerticalAlignment="Top" Width="33" />
+        </Grid>
+        <Grid Margin="-81,403,190,81" Name="Rowk">
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="125,28,0,0" Name="rowelabel1" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="147,28,0,0" Name="rowelabel2" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="169,28,0,0" Name="rowelabel3" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="191,28,0,0" Name="rowelabel4" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="213,28,0,0" Name="rowelabel5" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="235,28,0,0" Name="rowelabel6" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="257,28,0,0" Name="rowelabel7" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="279,28,0,0" Name="rowelabel8" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="301,28,0,0" Name="rowelabel9" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="323,28,0,0" Name="rowelabela" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="345,28,0,0" Name="rowelabelb" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="367,28,0,0" Name="rowelabelc" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="388,28,0,0" Name="rowelabeld" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="411,28,0,0" Name="rowelabele" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="433,28,0,0" Name="rowelabelf" VerticalAlignment="Top" Width="33" />
+        </Grid>
+        <Grid Margin="-82,275,209,204" Name="Rowh">
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="125,28,0,0" Name="row8label1" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="147,28,0,0" Name="row8label2" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="169,28,0,0" Name="row8label3" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="191,28,0,0" Name="row8label4" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="213,28,0,0" Name="row8label5" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="235,28,0,0" Name="row8label6" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="257,28,0,0" Name="row8label7" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="279,28,0,0" Name="row8label8" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="301,28,0,0" Name="row8label9" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="323,28,0,0" Name="row8labela" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="345,28,0,0" Name="row8labelb" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="367,28,0,0" Name="row8labelc" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="388,28,0,0" Name="row8labeld" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="411,28,0,0" Name="row8labele" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="433,28,0,0" Name="row8labelf" VerticalAlignment="Top" Width="33" />
+          </Grid>
+        <Grid Margin="-82,442,209,39" Name="Rowl">
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="125,28,0,0" Name="rowclabel1" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="147,28,0,0" Name="rowclabel2" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="169,28,0,0" Name="rowclabel3" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="191,28,0,0" Name="rowclabel4" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="213,28,0,0" Name="rowclabel5" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="235,28,0,0" Name="rowclabel6" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="257,28,0,0" Name="rowclabel7" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="279,28,0,0" Name="rowclabel8" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="301,28,0,0" Name="rowclabel9" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="323,28,0,0" Name="rowclabela" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="345,28,0,0" Name="rowclabelb" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="367,28,0,0" Name="rowclabelc" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="388,28,0,0" Name="rowclabeld" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="411,28,0,0" Name="rowclabele" VerticalAlignment="Top" Width="33" />
+            <Label Content="M" FontSize="28" Foreground="White" Height="47" HorizontalAlignment="Left" Margin="433,28,0,0" Name="rowclabelf" VerticalAlignment="Top" Width="33" />
+        </Grid>
+
+
+        </Grid>
+        
+        
+        <Grid Name="CardContainer">
+            
+        </Grid>
+        
+        <Grid Name="myMenuGrid" Margin="-101,-28,162,29">
+            <Grid.Background>
+                <ImageBrush />
+            </Grid.Background>
+            <Image Height="523" HorizontalAlignment="Right" Margin="0,28,-128,0" Name="MenuBackground" Stretch="Fill" VerticalAlignment="Top" Width="592" Source="/Typing%20Tutor;component/Images/Backgrounds/background45.png" />
+            
+            <Button Content="" Height="120" HorizontalAlignment="Left" Margin="209,73,0,0" Name="btnNewGame" VerticalAlignment="Top" Width="321" Click="button2_Click" MouseEnter="btnNewGame_MouseEnter" MouseLeave="btnNewGame_MouseLeave" FontSize="24">
+                <Button.Background>
+                    <ImageBrush ImageSource="pack://application:,,,/Typing Tutor;component/Images/dark images/newgame.png" Stretch="None" TileMode="None" />
+                </Button.Background>
+            </Button>
+            <Button Content="" HorizontalAlignment="Left" Margin="209,228,0,0" Name="btnRules" Width="321" Click="btnRules_Click" Height="120" VerticalAlignment="Top">
+                <Button.Background>
+                    <ImageBrush ImageSource="pack://application:,,,/Typing Tutor;component/Images/dark images/instructions.png" Stretch="None" TileMode="None" />
+                </Button.Background>
+            </Button>
+            
+            <Button Content="" Height="120" HorizontalAlignment="Left" Margin="209,401,0,0" Name="btnExit" VerticalAlignment="Top" Width="321" Click="btnExit_Click">
+                <Button.Background>
+                    <ImageBrush ImageSource="pack://application:,,,/Typing Tutor;component/Images/dark images/exit.png" Stretch="None" TileMode="None" />
+                </Button.Background>
+            </Button>
+            
+        </Grid>
+        
+        <Grid Name="gridInstructions" Margin="28,-6,93,34">
+                <RichTextBox Height="418" HorizontalAlignment="Left" Margin="53,6,0,0" Name="rtbInstructions" VerticalAlignment="Top" Width="396" IsReadOnly="True" FontSize="16" Background="{x:Null}" Foreground="White" BorderBrush="{x:Null}" IsEnabled="True"></RichTextBox>
+                <Button Height="73" HorizontalAlignment="Left" Margin="148,437,0,0" Name="btnBack" VerticalAlignment="Top" Width="187" Click="button1_Click_1">
+                <Button.Background>
+                    <ImageBrush ImageSource="pack://application:,,,/Typing Tutor;component/Images/dark%20images/back.png" Stretch="None" TileMode="None" />
+                </Button.Background>
+            </Button>
+            
+        </Grid>
+        
+        
+        <Grid Height="522" HorizontalAlignment="Left" Margin="452,1,0,0" Name="gridScoreBoard" VerticalAlignment="Top" Width="98">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="3*" />
+                <ColumnDefinition Width="95*" />
+            </Grid.ColumnDefinitions>
+            <Grid.Background>
+                <ImageBrush ImageSource="/Typing%20Tutor;component/Images/Backgrounds/background45.png" />
+                </Grid.Background>
+                <Button Content="Quit" Height="42" HorizontalAlignment="Left" Margin="3,450,0,0" Name="btnQuit" VerticalAlignment="Top" Width="86" Click="btnQuit_Click" Grid.Column="1" />
+                <Label Content="Complited:" Height="28" HorizontalAlignment="Left" Margin="0,24,0,0" Name="label1" VerticalAlignment="Top" Width="79" Foreground="White" Grid.ColumnSpan="2" />
+                <Label Content="0 Words" Height="28" HorizontalAlignment="Left" Margin="3,50,0,0" Name="lblCompleted" VerticalAlignment="Top" Width="83" Foreground="White" Grid.Column="1" />
+                <Label Content="Points:" Height="28" HorizontalAlignment="Left" Margin="3,231,0,0" Name="label2" VerticalAlignment="Top" Foreground="White" Grid.Column="1" />
+                <Label Content="0 Points" Height="28" HorizontalAlignment="Left" Margin="3,256,0,0" Name="lblPoints" VerticalAlignment="Top" Foreground="White" Grid.Column="1" />
+                <Label Content="Elasped:" Height="28" HorizontalAlignment="Left" Margin="3,348,0,0" Name="label4" VerticalAlignment="Top" Foreground="White" Grid.Column="1" />
+                <Label Content="00:00" Height="28" HorizontalAlignment="Left" Margin="10,372,0,0" Name="lblTimer" VerticalAlignment="Top" Width="66" Foreground="White" Grid.Column="1" />
+                <Label Content="Errors" Height="28" HorizontalAlignment="Left" Margin="3,123,0,0" Name="label3" VerticalAlignment="Top" Foreground="White" Grid.Column="1" />
+                <Label Content="0 Mistake(s)" Height="28" HorizontalAlignment="Left" Margin="6,142,0,0" Name="lblErrors" VerticalAlignment="Top" Foreground="White" Grid.Column="1" />
+        </Grid>
+
+        <Grid Height="132" HorizontalAlignment="Left" Margin="-13,176,0,0" Name="PauseGrid" VerticalAlignment="Top" Width="473">
+            <Grid.Background>
+                <ImageBrush ImageSource="/Typing%20Tutor;component/Images/countbackground.png" />
+            </Grid.Background>
+            <Label Content="Press Enter to resume" Height="65" HorizontalAlignment="Left" Margin="57,30,0,0" Name="label5" VerticalAlignment="Top" Width="364" FontSize="36" Foreground="White" />
+        </Grid>
+
+    </Grid>
+    
+    
+</Window>

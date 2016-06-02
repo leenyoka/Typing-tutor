@@ -1,0 +1,18 @@
+﻿<Window x:Class="Typing_Tutor.Register"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Register" Height="266" Width="382" ResizeMode="CanMinimize" Loaded="Window_Loaded" WindowStartupLocation="CenterScreen" KeyDown="Window_KeyDown" FontSize="16"
+        Icon="/Typing%20Tutor;component/Images/Icons/Main%20Window.png">
+    <!--<Window.Background>
+        <ImageBrush ImageSource="/Typing%20Tutor;component/Images/background41.png" />
+    </Window.Background>-->
+    <Grid>
+        <Label Content="New Username" Height="28" HorizontalAlignment="Left" Margin="30,32,0,0" Name="label1" VerticalAlignment="Top" FontSize="16" Foreground="Green" />
+        <Label Content="New Password" Height="28" HorizontalAlignment="Left" Margin="30,70,0,0" Name="label2" VerticalAlignment="Top" FontSize="16" Foreground="Green" />
+        <TextBox Height="27" HorizontalAlignment="Left" Margin="193,34,0,0" Name="txtUsername" VerticalAlignment="Top" Width="120" FontSize="16" />
+        <Label Content="Confirm Password" Height="28" HorizontalAlignment="Left" Margin="30,112,0,0" Name="label3" VerticalAlignment="Top" FontSize="16" Foreground="Green" />
+        <PasswordBox Height="27" HorizontalAlignment="Left" Margin="193,70,0,0" Name="txtPassword" VerticalAlignment="Top" Width="120" FontSize="16" />
+        <PasswordBox Height="27" HorizontalAlignment="Left" Margin="193,112,0,0" Name="txtRepeatPassword" VerticalAlignment="Top" Width="120" FontSize="16" />
+        <Button Content="Register" Height="35" HorizontalAlignment="Left" Margin="133,170,0,0" Name="btnRegister" Click="btnRegister_Click" VerticalAlignment="Top" Width="86" FontSize="16" />
+    </Grid>
+</Window>

@@ -1,0 +1,807 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{29808571-F893-4449-B224-FBCC1D06C0D8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Typing_Tutor</RootNamespace>
+    <AssemblyName>Typing Tutor</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationFramework.Aero" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="WPFToolkit, Version=3.5.40128.1, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="afterRegisteration.xaml.cs">
+      <DependentUpon>afterRegisteration.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CharImage.cs" />
+    <Compile Include="Database\TouchTypingDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TouchTypingDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DefaultSettings.cs" />
+    <Compile Include="DifficultKeys.cs" />
+    <Compile Include="fingerDetails.cs" />
+    <Compile Include="freeText.xaml.cs">
+      <DependentUpon>freeText.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GameSounds.cs" />
+    <Compile Include="handResults.xaml.cs">
+      <DependentUpon>handResults.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="helpmetest.cs" />
+    <Compile Include="Learn.xaml.cs">
+      <DependentUpon>Learn.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="LoadAssist.cs" />
+    <Compile Include="ManageMe.cs" />
+    <Compile Include="ManageSkill.cs" />
+    <Compile Include="ManageTest.cs" />
+    <Compile Include="MyKeybaord.cs" />
+    <Compile Include="MySoundPlayer.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="myState.cs" />
+    <Compile Include="MyStateTris.cs" />
+    <Compile Include="NumHandResults.xaml.cs">
+      <DependentUpon>NumHandResults.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="NumKeys.cs" />
+    <Compile Include="Options.xaml.cs">
+      <DependentUpon>Options.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PressWatcher.cs" />
+    <Compile Include="Progress.xaml.cs">
+      <DependentUpon>Progress.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="QwertyEnglish.cs" />
+    <Compile Include="Register.xaml.cs">
+      <DependentUpon>Register.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Results.xaml.cs">
+      <DependentUpon>Results.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="SessionTimer.cs" />
+    <Compile Include="shift.cs" />
+    <Compile Include="skillsResult.xaml.cs">
+      <DependentUpon>skillsResult.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="SoundManager.cs" />
+    <Compile Include="TextFileToString.cs" />
+    <Compile Include="theme.cs" />
+    <Compile Include="TouchType.xaml.cs">
+      <DependentUpon>TouchType.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TypingSpeed.cs" />
+    <Compile Include="UserResults.cs" />
+    <Compile Include="ViewDifficultKeys.xaml.cs">
+      <DependentUpon>ViewDifficultKeys.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ViewKeysForFinger.xaml.cs">
+      <DependentUpon>ViewKeysForFinger.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ViewNumDifficultkeys.xaml.cs">
+      <DependentUpon>ViewNumDifficultkeys.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="WordTris.xaml.cs">
+      <DependentUpon>WordTris.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="wordtrisResults.xaml.cs">
+      <DependentUpon>wordtrisResults.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="WordTrisScores.cs" />
+    <Compile Include="WordWatcher.cs" />
+    <Page Include="afterRegisteration.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="freeText.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="handResults.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Learn.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="NumHandResults.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Options.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Progress.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Register.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Results.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="skillsResult.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="TouchType.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ViewDifficultKeys.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ViewKeysForFinger.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ViewNumDifficultkeys.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="WordTris.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="wordtrisResults.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Database\TouchTypingDataSet.xsc">
+      <DependentUpon>TouchTypingDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Database\TouchTypingDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TouchTypingDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Database\TouchTypingDataSet.xss">
+      <DependentUpon>TouchTypingDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\GameOn\GameOn\GameOn.csproj">
+      <Project>{8067B108-615C-4974-ABCD-4CEF81A7D1CE}</Project>
+      <Name>GameOn</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BussinessLayer\BussinessLayer.csproj">
+      <Project>{780CB150-9127-4767-AA0A-90F937327451}</Project>
+      <Name>BussinessLayer</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="bin\Debug\wood.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\wood.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Dark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\dog.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\black drawing 2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\myDot.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\redDot.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\righthand.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Exit.png" />
+    <Resource Include="Images\HighScores.png" />
+    <Resource Include="Images\NewGame.png" />
+    <Resource Include="Images\Rules.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\bubble keys.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\option1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\otion2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\timebackground.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\speedback.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\color1\a.png" />
+    <Resource Include="Images\color1\b.png" />
+    <Resource Include="Images\color1\c.png" />
+    <Resource Include="Images\color1\d.png" />
+    <Resource Include="Images\color1\e.png" />
+    <Resource Include="Images\color1\f.png" />
+    <Resource Include="Images\color1\g.png" />
+    <Resource Include="Images\color1\h.png" />
+    <Resource Include="Images\color1\i.png" />
+    <Resource Include="Images\color1\j.png" />
+    <Resource Include="Images\color1\k.png" />
+    <Resource Include="Images\color1\l.png" />
+    <Resource Include="Images\color1\m.png" />
+    <Resource Include="Images\color1\n.png" />
+    <Resource Include="Images\color1\o.png" />
+    <Resource Include="Images\color1\p.png" />
+    <Resource Include="Images\color1\q.png" />
+    <Resource Include="Images\color1\r.png" />
+    <Resource Include="Images\color1\s.png" />
+    <Resource Include="Images\color1\t.png" />
+    <Resource Include="Images\color1\u.png" />
+    <Resource Include="Images\color1\v.png" />
+    <Resource Include="Images\color1\w.png" />
+    <Resource Include="Images\color1\x.png" />
+    <Resource Include="Images\color1\y.png" />
+    <Resource Include="Images\color1\z.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\color2\a.png" />
+    <Resource Include="Images\color2\b.png" />
+    <Resource Include="Images\color2\c.png" />
+    <Resource Include="Images\color2\d.png" />
+    <Resource Include="Images\color2\e.png" />
+    <Resource Include="Images\color2\f.png" />
+    <Resource Include="Images\color2\g.png" />
+    <Resource Include="Images\color2\h.png" />
+    <Resource Include="Images\color2\i.png" />
+    <Resource Include="Images\color2\j.png" />
+    <Resource Include="Images\color2\k.png" />
+    <Resource Include="Images\color2\l.png" />
+    <Resource Include="Images\color2\m.png" />
+    <Resource Include="Images\color2\n.png" />
+    <Resource Include="Images\color2\o.png" />
+    <Resource Include="Images\color2\p.png" />
+    <Resource Include="Images\color2\q.png" />
+    <Resource Include="Images\color2\r.png" />
+    <Resource Include="Images\color2\s.png" />
+    <Resource Include="Images\color2\t.png" />
+    <Resource Include="Images\color2\u.png" />
+    <Resource Include="Images\color2\v.png" />
+    <Resource Include="Images\color2\w.png" />
+    <Resource Include="Images\color2\x.png" />
+    <Resource Include="Images\color2\y.png" />
+    <Resource Include="Images\color2\z.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\a.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\opt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Chrysanthemum.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\capical\a.png" />
+    <Resource Include="Images\capical\b.png" />
+    <Resource Include="Images\capical\c.png" />
+    <Resource Include="Images\capical\d.png" />
+    <Resource Include="Images\capical\e.png" />
+    <Resource Include="Images\capical\f.png" />
+    <Resource Include="Images\capical\g.png" />
+    <Resource Include="Images\capical\h.png" />
+    <Resource Include="Images\capical\i.png" />
+    <Resource Include="Images\capical\j.png" />
+    <Resource Include="Images\capical\k.png" />
+    <Resource Include="Images\capical\l.png" />
+    <Resource Include="Images\capical\m.png" />
+    <Resource Include="Images\capical\n.png" />
+    <Resource Include="Images\capical\o.png" />
+    <Resource Include="Images\capical\p.png" />
+    <Resource Include="Images\capical\q.png" />
+    <Resource Include="Images\capical\r.png" />
+    <Resource Include="Images\capical\s.png" />
+    <Resource Include="Images\capical\t.png" />
+    <Resource Include="Images\capical\u.png" />
+    <Resource Include="Images\capical\v.png" />
+    <Resource Include="Images\capical\w.png" />
+    <Resource Include="Images\capical\x.png" />
+    <Resource Include="Images\capical\y.png" />
+    <Resource Include="Images\capical\z.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\small\a.png" />
+    <Resource Include="Images\small\b.png" />
+    <Resource Include="Images\small\c.png" />
+    <Resource Include="Images\small\d.png" />
+    <Resource Include="Images\small\e.png" />
+    <Resource Include="Images\small\f.png" />
+    <Resource Include="Images\small\g.png" />
+    <Resource Include="Images\small\h.png" />
+    <Resource Include="Images\small\i.png" />
+    <Resource Include="Images\small\j.png" />
+    <Resource Include="Images\small\k.png" />
+    <Resource Include="Images\small\l.png" />
+    <Resource Include="Images\small\o.png" />
+    <Resource Include="Images\small\p.png" />
+    <Resource Include="Images\small\q.png" />
+    <Resource Include="Images\small\r.png" />
+    <Resource Include="Images\small\s.png" />
+    <Resource Include="Images\small\t.png" />
+    <Resource Include="Images\small\u.png" />
+    <Resource Include="Images\small\v.png" />
+    <Resource Include="Images\small\w.png" />
+    <Resource Include="Images\small\x.png" />
+    <Resource Include="Images\small\y.png" />
+    <Resource Include="Images\small\z.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\symbol\!.png" />
+    <Resource Include="Images\symbol\#.png" />
+    <Resource Include="Images\symbol\%24.png" />
+    <Resource Include="Images\symbol\%25.png" />
+    <Resource Include="Images\symbol\%27.png" />
+    <Resource Include="Images\symbol\%28.png" />
+    <Resource Include="Images\symbol\%29.png" />
+    <Resource Include="Images\symbol\%3b.png" />
+    <Resource Include="Images\symbol\%40.png" />
+    <Resource Include="Images\symbol\&amp;.png" />
+    <Resource Include="Images\symbol\+.png" />
+    <Resource Include="Images\symbol\,.png" />
+    <Resource Include="Images\symbol\-.png" />
+    <Resource Include="Images\symbol\=.png" />
+    <Resource Include="Images\symbol\ampesand.png" />
+    <Resource Include="Images\symbol\backslash.png" />
+    <Resource Include="Images\symbol\colon.png" />
+    <Resource Include="Images\symbol\forwardslash.png" />
+    <Resource Include="Images\symbol\greaterthan.png" />
+    <Resource Include="Images\symbol\lessthan.png" />
+    <Resource Include="Images\symbol\period.png" />
+    <Resource Include="Images\symbol\pipe.png" />
+    <Resource Include="Images\symbol\qoute.png" />
+    <Resource Include="Images\symbol\question.png" />
+    <Resource Include="Images\symbol\[.png" />
+    <Resource Include="Images\symbol\].png" />
+    <Resource Include="Images\symbol\^.png" />
+    <Resource Include="Images\symbol\_.png" />
+    <Resource Include="Images\symbol\`.png" />
+    <Resource Include="Images\symbol\{.png" />
+    <Resource Include="Images\symbol\}.png" />
+    <Resource Include="Images\symbol\~.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\capical\!.png" />
+    <Resource Include="Images\capical\#.png" />
+    <Resource Include="Images\capical\%24.png" />
+    <Resource Include="Images\capical\%25.png" />
+    <Resource Include="Images\capical\%27.png" />
+    <Resource Include="Images\capical\%28.png" />
+    <Resource Include="Images\capical\%29.png" />
+    <Resource Include="Images\capical\%3b.png" />
+    <Resource Include="Images\capical\%40.png" />
+    <Resource Include="Images\capical\&amp;.png" />
+    <Resource Include="Images\capical\+.png" />
+    <Resource Include="Images\capical\,.png" />
+    <Resource Include="Images\capical\-.png" />
+    <Resource Include="Images\capical\=.png" />
+    <Resource Include="Images\capical\[.png" />
+    <Resource Include="Images\capical\].png" />
+    <Resource Include="Images\capical\^.png" />
+    <Resource Include="Images\capical\_.png" />
+    <Resource Include="Images\capical\`.png" />
+    <Resource Include="Images\capical\{.png" />
+    <Resource Include="Images\capical\}.png" />
+    <Resource Include="Images\capical\~.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\countbackground.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\background4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\buttonBackground\brownbutton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\buttonColor1\!.png" />
+    <Resource Include="Images\buttonColor1\#.png" />
+    <Resource Include="Images\buttonColor1\%24.png" />
+    <Resource Include="Images\buttonColor1\%25.png" />
+    <Resource Include="Images\buttonColor1\%27.png" />
+    <Resource Include="Images\buttonColor1\%28.png" />
+    <Resource Include="Images\buttonColor1\%29.png" />
+    <Resource Include="Images\buttonColor1\%3b.png" />
+    <Resource Include="Images\buttonColor1\%40.png" />
+    <Resource Include="Images\buttonColor1\+.png" />
+    <Resource Include="Images\buttonColor1\,.png" />
+    <Resource Include="Images\buttonColor1\-.png" />
+    <Resource Include="Images\buttonColor1\0.png" />
+    <Resource Include="Images\buttonColor1\1.png" />
+    <Resource Include="Images\buttonColor1\2.png" />
+    <Resource Include="Images\buttonColor1\3.png" />
+    <Resource Include="Images\buttonColor1\4.png" />
+    <Resource Include="Images\buttonColor1\5.png" />
+    <Resource Include="Images\buttonColor1\6.png" />
+    <Resource Include="Images\buttonColor1\7.png" />
+    <Resource Include="Images\buttonColor1\8.png" />
+    <Resource Include="Images\buttonColor1\9.png" />
+    <Resource Include="Images\buttonColor1\=.png" />
+    <Resource Include="Images\buttonColor1\a.png" />
+    <Resource Include="Images\buttonColor1\ampersand.png" />
+    <Resource Include="Images\buttonColor1\asterisk.png" />
+    <Resource Include="Images\buttonColor1\b.png" />
+    <Resource Include="Images\buttonColor1\backslash.png" />
+    <Resource Include="Images\buttonColor1\c.png" />
+    <Resource Include="Images\buttonColor1\colon.png" />
+    <Resource Include="Images\buttonColor1\d.png" />
+    <Resource Include="Images\buttonColor1\e.png" />
+    <Resource Include="Images\buttonColor1\f.png" />
+    <Resource Include="Images\buttonColor1\forwardslash.png" />
+    <Resource Include="Images\buttonColor1\g.png" />
+    <Resource Include="Images\buttonColor1\greaterthan.png" />
+    <Resource Include="Images\buttonColor1\h.png" />
+    <Resource Include="Images\buttonColor1\i.png" />
+    <Resource Include="Images\buttonColor1\j.png" />
+    <Resource Include="Images\buttonColor1\k.png" />
+    <Resource Include="Images\buttonColor1\l.png" />
+    <Resource Include="Images\buttonColor1\lessthan.png" />
+    <Resource Include="Images\buttonColor1\m.png" />
+    <Resource Include="Images\buttonColor1\n.png" />
+    <Resource Include="Images\buttonColor1\o.png" />
+    <Resource Include="Images\buttonColor1\p.png" />
+    <Resource Include="Images\buttonColor1\period.png" />
+    <Resource Include="Images\buttonColor1\pipe.png" />
+    <Resource Include="Images\buttonColor1\q.png" />
+    <Resource Include="Images\buttonColor1\qoute.png" />
+    <Resource Include="Images\buttonColor1\question.png" />
+    <Resource Include="Images\buttonColor1\r.png" />
+    <Resource Include="Images\buttonColor1\s.png" />
+    <Resource Include="Images\buttonColor1\shift.png" />
+    <Resource Include="Images\buttonColor1\smallerthan.png" />
+    <Resource Include="Images\buttonColor1\space.png" />
+    <Resource Include="Images\buttonColor1\t.png" />
+    <Resource Include="Images\buttonColor1\u.png" />
+    <Resource Include="Images\buttonColor1\v.png" />
+    <Resource Include="Images\buttonColor1\w.png" />
+    <Resource Include="Images\buttonColor1\x.png" />
+    <Resource Include="Images\buttonColor1\y.png" />
+    <Resource Include="Images\buttonColor1\z.png" />
+    <Resource Include="Images\buttonColor1\[.png" />
+    <Resource Include="Images\buttonColor1\].png" />
+    <Resource Include="Images\buttonColor1\^.png" />
+    <Resource Include="Images\buttonColor1\_.png" />
+    <Resource Include="Images\buttonColor1\{.png" />
+    <Resource Include="Images\buttonColor1\}.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\buttonColor2\!.png" />
+    <Resource Include="Images\buttonColor2\#.png" />
+    <Resource Include="Images\buttonColor2\%24.png" />
+    <Resource Include="Images\buttonColor2\%25.png" />
+    <Resource Include="Images\buttonColor2\%27.png" />
+    <Resource Include="Images\buttonColor2\%28.png" />
+    <Resource Include="Images\buttonColor2\%29.png" />
+    <Resource Include="Images\buttonColor2\%3b.png" />
+    <Resource Include="Images\buttonColor2\%40.png" />
+    <Resource Include="Images\buttonColor2\+.png" />
+    <Resource Include="Images\buttonColor2\,.png" />
+    <Resource Include="Images\buttonColor2\-.png" />
+    <Resource Include="Images\buttonColor2\0.png" />
+    <Resource Include="Images\buttonColor2\1.png" />
+    <Resource Include="Images\buttonColor2\2.png" />
+    <Resource Include="Images\buttonColor2\3.png" />
+    <Resource Include="Images\buttonColor2\4.png" />
+    <Resource Include="Images\buttonColor2\5.png" />
+    <Resource Include="Images\buttonColor2\6.png" />
+    <Resource Include="Images\buttonColor2\7.png" />
+    <Resource Include="Images\buttonColor2\8.png" />
+    <Resource Include="Images\buttonColor2\9.png" />
+    <Resource Include="Images\buttonColor2\=.png" />
+    <Resource Include="Images\buttonColor2\a.png" />
+    <Resource Include="Images\buttonColor2\ampersand.png" />
+    <Resource Include="Images\buttonColor2\asterisk.png" />
+    <Resource Include="Images\buttonColor2\b.png" />
+    <Resource Include="Images\buttonColor2\backslash.png" />
+    <Resource Include="Images\buttonColor2\c.png" />
+    <Resource Include="Images\buttonColor2\colon.png" />
+    <Resource Include="Images\buttonColor2\d.png" />
+    <Resource Include="Images\buttonColor2\e.png" />
+    <Resource Include="Images\buttonColor2\f.png" />
+    <Resource Include="Images\buttonColor2\forwardslash.png" />
+    <Resource Include="Images\buttonColor2\g.png" />
+    <Resource Include="Images\buttonColor2\greaterthan.png" />
+    <Resource Include="Images\buttonColor2\h.png" />
+    <Resource Include="Images\buttonColor2\i.png" />
+    <Resource Include="Images\buttonColor2\j.png" />
+    <Resource Include="Images\buttonColor2\k.png" />
+    <Resource Include="Images\buttonColor2\l.png" />
+    <Resource Include="Images\buttonColor2\m.png" />
+    <Resource Include="Images\buttonColor2\n.png" />
+    <Resource Include="Images\buttonColor2\o.png" />
+    <Resource Include="Images\buttonColor2\p.png" />
+    <Resource Include="Images\buttonColor2\period.png" />
+    <Resource Include="Images\buttonColor2\pipe.png" />
+    <Resource Include="Images\buttonColor2\q.png" />
+    <Resource Include="Images\buttonColor2\qoute.png" />
+    <Resource Include="Images\buttonColor2\question.png" />
+    <Resource Include="Images\buttonColor2\r.png" />
+    <Resource Include="Images\buttonColor2\s.png" />
+    <Resource Include="Images\buttonColor2\shift.png" />
+    <Resource Include="Images\buttonColor2\smallerthan.png" />
+    <Resource Include="Images\buttonColor2\space.png" />
+    <Resource Include="Images\buttonColor2\t.png" />
+    <Resource Include="Images\buttonColor2\u.png" />
+    <Resource Include="Images\buttonColor2\v.png" />
+    <Resource Include="Images\buttonColor2\w.png" />
+    <Resource Include="Images\buttonColor2\x.png" />
+    <Resource Include="Images\buttonColor2\y.png" />
+    <Resource Include="Images\buttonColor2\z.png" />
+    <Resource Include="Images\buttonColor2\[.png" />
+    <Resource Include="Images\buttonColor2\].png" />
+    <Resource Include="Images\buttonColor2\^.png" />
+    <Resource Include="Images\buttonColor2\_.png" />
+    <Resource Include="Images\buttonColor2\{.png" />
+    <Resource Include="Images\buttonColor2\}.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\buttonBackground\redbutton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\background1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Hands\lefthand.jpg" />
+    <Resource Include="Images\Hands\righthand1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\background3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\background41.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Hands\left.png" />
+    <Resource Include="Images\Hands\right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Backgrounds\background41.png" />
+    <Resource Include="Images\Backgrounds\background42.png" />
+    <Resource Include="Images\Backgrounds\background43.png" />
+    <Resource Include="Images\Backgrounds\background44.png" />
+    <Resource Include="Images\Backgrounds\background45.png" />
+    <Resource Include="Images\Backgrounds\background46.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\wordtrisBlockBackground.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\dark images\back.png" />
+    <Resource Include="Images\dark images\exit.png" />
+    <Resource Include="Images\dark images\instructions.png" />
+    <Resource Include="Images\dark images\newgame.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\bothhands.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Icons\Main Window.png" />
+    <Resource Include="Images\Icons\Progress.png" />
+    <Resource Include="Images\Icons\Settingspng.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\BackgroundsWordtris\Black.png" />
+    <Resource Include="Images\BackgroundsWordtris\Blue.png" />
+    <Resource Include="Images\BackgroundsWordtris\DarkRed.png" />
+    <Resource Include="Images\BackgroundsWordtris\Green.png" />
+    <Resource Include="Images\BackgroundsWordtris\Purple.png" />
+    <Resource Include="Images\BackgroundsWordtris\Red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Icons\Results_Icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\BackgroundsWordtris\Tetris.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Database\TouchTyping.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Resource Include="Images\Icons\learn.jpg" />
+    <Resource Include="Images\Hands\Learn.png" />
+    <Resource Include="Images\Learn.png" />
+    <Content Include="Sound\bubble\bomb.wav" />
+    <Content Include="Sound\bubble\Drop.wav" />
+    <Content Include="Sound\bubble\error.wav" />
+    <Content Include="Sound\bubble\hit.wav" />
+    <Content Include="Sound\bubble\intro.wav" />
+    <Content Include="Sound\glass_breaking_1.mp3" />
+    <Content Include="Sound\Good .mp3" />
+    <Content Include="Sound\heartbeat1.wav" />
+    <Content Include="Sound\keys\0.wav" />
+    <Content Include="Sound\keys\1.wav" />
+    <Content Include="Sound\keys\2.wav" />
+    <Content Include="Sound\keys\3.wav" />
+    <Content Include="Sound\keys\4.wav" />
+    <Content Include="Sound\keys\5.wav" />
+    <Content Include="Sound\keys\6.wav" />
+    <Content Include="Sound\keys\7.wav" />
+    <Content Include="Sound\keys\8.wav" />
+    <Content Include="Sound\keys\9.wav" />
+    <Content Include="Sound\keys\a.wav" />
+    <Content Include="Sound\keys\ampersand.wav" />
+    <Content Include="Sound\keys\asterisk.wav" />
+    <Content Include="Sound\keys\at.wav" />
+    <Content Include="Sound\keys\b.wav" />
+    <Content Include="Sound\keys\backslash.wav" />
+    <Content Include="Sound\keys\c.wav" />
+    <Content Include="Sound\keys\caret.wav" />
+    <Content Include="Sound\keys\closebrace.wav" />
+    <Content Include="Sound\keys\closeparenthesis.wav" />
+    <Content Include="Sound\keys\colon.wav" />
+    <Content Include="Sound\keys\comma.wav" />
+    <Content Include="Sound\keys\d.wav" />
+    <Content Include="Sound\keys\dash.wav" />
+    <Content Include="Sound\keys\dollar.wav" />
+    <Content Include="Sound\keys\e.wav" />
+    <Content Include="Sound\keys\equals.wav" />
+    <Content Include="Sound\keys\exclamation.wav" />
+    <Content Include="Sound\keys\f.wav" />
+    <Content Include="Sound\keys\finger.wav" />
+    <Content Include="Sound\keys\forwardslash.wav" />
+    <Content Include="Sound\keys\g.wav" />
+    <Content Include="Sound\keys\greaterthan.wav" />
+    <Content Include="Sound\keys\h.wav" />
+    <Content Include="Sound\keys\hash.wav" />
+    <Content Include="Sound\keys\i.wav" />
+    <Content Include="Sound\keys\index.wav" />
+    <Content Include="Sound\keys\j.wav" />
+    <Content Include="Sound\keys\k.wav" />
+    <Content Include="Sound\keys\l.wav" />
+    <Content Include="Sound\keys\left.wav" />
+    <Content Include="Sound\keys\lessthan.wav" />
+    <Content Include="Sound\keys\m.wav" />
+    <Content Include="Sound\keys\middle.wav" />
+    <Content Include="Sound\keys\n.wav" />
+    <Content Include="Sound\keys\o.wav" />
+    <Content Include="Sound\keys\openbrace.wav" />
+    <Content Include="Sound\keys\openbracket.wav" />
+    <Content Include="Sound\keys\openparenthesis.wav" />
+    <Content Include="Sound\keys\p.wav" />
+    <Content Include="Sound\keys\percent.wav" />
+    <Content Include="Sound\keys\period.wav" />
+    <Content Include="Sound\keys\pinkie.wav" />
+    <Content Include="Sound\keys\pipe.wav" />
+    <Content Include="Sound\keys\plus.wav" />
+    <Content Include="Sound\keys\press.wav" />
+    <Content Include="Sound\keys\q.wav" />
+    <Content Include="Sound\keys\question.wav" />
+    <Content Include="Sound\keys\quote.wav" />
+    <Content Include="Sound\keys\r.wav" />
+    <Content Include="Sound\keys\right.wav" />
+    <Content Include="Sound\keys\ring.wav" />
+    <Content Include="Sound\keys\s.wav" />
+    <Content Include="Sound\keys\semicolon.wav" />
+    <Content Include="Sound\keys\singlequote.wav" />
+    <Content Include="Sound\keys\space.wav" />
+    <Content Include="Sound\keys\t.wav" />
+    <Content Include="Sound\keys\thumb.wav" />
+    <Content Include="Sound\keys\u.wav" />
+    <Content Include="Sound\keys\underscore.wav" />
+    <Content Include="Sound\keys\v.wav" />
+    <Content Include="Sound\keys\w.wav" />
+    <Content Include="Sound\keys\withyour.wav" />
+    <Content Include="Sound\keys\x.wav" />
+    <Content Include="Sound\keys\y.wav" />
+    <Content Include="Sound\keys\z.wav" />
+    <Content Include="Sound\key_drop1.wav" />
+    <Content Include="Sound\key_drop2.wav" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

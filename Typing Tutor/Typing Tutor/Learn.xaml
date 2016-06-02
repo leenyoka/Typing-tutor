@@ -1,0 +1,15 @@
+﻿<Window x:Class="Typing_Tutor.Learn"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Learn" Height="544" Width="844" Loaded="Window_Loaded" ResizeMode="CanResizeWithGrip" WindowStartupLocation="CenterScreen" WindowState="Normal"
+        Keyboard.KeyDown="Keydown" Icon="/Typing%20Tutor;component/Images/Learn.png">
+    
+    <Grid>
+        <!--<Grid Height="31" HorizontalAlignment="Left" Name="grid1" VerticalAlignment="Top" Width="849">
+            <Button Content="Practice keys" Height="23" HorizontalAlignment="Left" Margin="6,2,0,0" Name="btnBack" VerticalAlignment="Top" Width="244" Click="Back" />
+        </Grid>-->
+        <!--<Grid Height="548"Height="548" HorizontalAlignment="Left" Margin="0,29,0,0" Name="grid2" VerticalAlignment="Top"Width="849" Width="849">-->
+        <!--</Grid>-->
+        <WebBrowser Name="wbLearn" />
+    </Grid>
+</Window>

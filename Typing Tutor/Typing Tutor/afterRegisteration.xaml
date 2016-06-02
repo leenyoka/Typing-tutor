@@ -1,0 +1,19 @@
+﻿<Window x:Class="Typing_Tutor.afterRegisteration"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Registration" Height="354" Width="391" Loaded="Window_Loaded" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" FontSize="16" Icon="/Typing%20Tutor;component/Images/Icons/Main%20Window.png">
+    <!--<Window.Background>
+        <ImageBrush ImageSource="/Typing%20Tutor;component/Images/background41.png" />
+    </Window.Background>-->
+    <Grid>
+        <Label Content="Your registration was successful!" Height="34" HorizontalAlignment="Left" Margin="23,21,0,0" Name="label1" VerticalAlignment="Top" Width="252" Foreground="Green" />
+        <Label Content="Thank you for registering" Height="36" HorizontalAlignment="Left" Margin="23,44,0,0" Name="label2" VerticalAlignment="Top" Width="199" Foreground="Green" />
+        <GroupBox Header="" Height="129" HorizontalAlignment="Left" Margin="12,86,0,0" Name="groupBox1" VerticalAlignment="Top" Width="345">
+            <Grid>
+                <RadioButton Content="Load typing tutor only" Height="27" HorizontalAlignment="Left" Margin="40,24,0,0" Name="rbtutor" VerticalAlignment="Top" Width="196" Foreground="Green" />
+                <RadioButton Content="Load typing tutor and learning page" Height="35" HorizontalAlignment="Left" Margin="40,57,0,0" Name="rbtutorNLeaner" VerticalAlignment="Top" Width="287" Foreground="Green" />
+            </Grid>
+        </GroupBox>
+        <Button Content="Continue" Height="29" HorizontalAlignment="Left" Margin="137,229,0,0" Name="btnContinue" VerticalAlignment="Top" Width="85" Click="btnContinue_Click" />
+    </Grid>
+</Window>

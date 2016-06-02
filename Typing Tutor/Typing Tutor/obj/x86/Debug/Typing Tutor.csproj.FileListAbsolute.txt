@@ -1,0 +1,450 @@
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\Typing Tutor.exe
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\Typing Tutor.pdb
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\App.g.cs
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing Tutor_MarkupCompile.cache
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing Tutor.g.resources
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing_Tutor.Properties.Resources.resources
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing Tutor.exe
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing Tutor.pdb
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\MainWindow.baml
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\MainWindow.g.cs
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Register.baml
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\TouchType.baml
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Register.g.cs
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\TouchType.g.cs
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\BussinessLayer.dll
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\BussinessLayer.pdb
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\WPFToolkit.dll
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\WPFToolkit.pdb
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Learn.baml
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Learn.g.cs
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Options.baml
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Options.g.cs
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Progress.baml
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Progress.g.cs
+C:\Users\LESLIE\Typing\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing Tutor.exe
+C:\Users\LESLIE\Typing\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing Tutor.pdb
+C:\Users\LESLIE\Typing\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\Typing Tutor.exe
+C:\Users\LESLIE\Typing\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\Typing Tutor.pdb
+C:\Users\LESLIE\Typing\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\BussinessLayer.dll
+C:\Users\LESLIE\Typing\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\WPFToolkit.dll
+C:\Users\LESLIE\Typing\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\BussinessLayer.pdb
+C:\Users\LESLIE\Typing\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\WPFToolkit.pdb
+C:\Users\LESLIE\Typing\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LESLIE\Typing\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\BureauBlack.baml
+C:\Users\LESLIE\Typing\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Learn.baml
+C:\Users\LESLIE\Typing\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\MainWindow.baml
+C:\Users\LESLIE\Typing\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Options.baml
+C:\Users\LESLIE\Typing\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Progress.baml
+C:\Users\LESLIE\Typing\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Register.baml
+C:\Users\LESLIE\Typing\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\TouchType.baml
+C:\Users\LESLIE\Typing\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Learn.g.cs
+C:\Users\LESLIE\Typing\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\MainWindow.g.cs
+C:\Users\LESLIE\Typing\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Options.g.cs
+C:\Users\LESLIE\Typing\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Progress.g.cs
+C:\Users\LESLIE\Typing\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Register.g.cs
+C:\Users\LESLIE\Typing\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\TouchType.g.cs
+C:\Users\LESLIE\Typing\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\App.g.cs
+C:\Users\LESLIE\Typing\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing Tutor_MarkupCompile.cache
+C:\Users\LESLIE\Typing\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing Tutor.g.resources
+C:\Users\LESLIE\Typing\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing_Tutor.Properties.Resources.resources
+C:\Users\LESLIE\Typing\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\LESLIE\Typing\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Results.baml
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Results.g.cs
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\skillsResult.baml
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\skillsResult.g.cs
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\freeText.baml
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\freeText.g.cs
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\afterRegisteration.baml
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\afterRegisteration.g.cs
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing Tutor.exe
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing Tutor.pdb
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\Typing Tutor.exe
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\Typing Tutor.pdb
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\BussinessLayer.dll
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\BussinessLayer.pdb
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\afterRegisteration.baml
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\freeText.baml
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Learn.baml
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\MainWindow.baml
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Options.baml
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Progress.baml
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Register.baml
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Results.baml
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\skillsResult.baml
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\TouchType.baml
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\afterRegisteration.g.cs
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\freeText.g.cs
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Learn.g.cs
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\MainWindow.g.cs
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Options.g.cs
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Progress.g.cs
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Register.g.cs
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Results.g.cs
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\skillsResult.g.cs
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\TouchType.g.cs
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\App.g.cs
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing Tutor_MarkupCompile.cache
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing Tutor.g.resources
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing_Tutor.Properties.Resources.resources
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\WordTris.baml
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\WordTris.g.cs
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\WordTris.baml
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\WordTris.g.cs
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\GameOn.exe
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\GameOn.pdb
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\wordtrisResults.baml
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\wordtrisResults.g.cs
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\handResults.baml
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\handResults.g.cs
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\ViewDifficultKeys.baml
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\ViewDifficultKeys.g.cs
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\GameOn.exe
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\GameOn.pdb
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\handResults.baml
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\ViewDifficultKeys.baml
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\wordtrisResults.baml
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\handResults.g.cs
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\ViewDifficultKeys.g.cs
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\wordtrisResults.g.cs
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing Tutor.exe
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing Tutor.pdb
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\afterRegisteration.baml
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\freeText.baml
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\GuestProgress.baml
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\handResults.baml
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Learn.baml
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\MainWindow.baml
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Options.baml
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Progress.baml
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Register.baml
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Results.baml
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\skillsResult.baml
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\TouchType.baml
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\ViewDifficultKeys.baml
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\WordTris.baml
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\wordtrisResults.baml
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\afterRegisteration.g.cs
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\freeText.g.cs
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\GuestProgress.g.cs
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\handResults.g.cs
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Learn.g.cs
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\MainWindow.g.cs
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Options.g.cs
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Progress.g.cs
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Register.g.cs
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Results.g.cs
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\skillsResult.g.cs
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\TouchType.g.cs
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\ViewDifficultKeys.g.cs
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\WordTris.g.cs
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\wordtrisResults.g.cs
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\App.g.cs
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing Tutor_MarkupCompile.cache
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing Tutor.g.resources
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing_Tutor.Properties.Resources.resources
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\Typing Tutor.exe
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\Typing Tutor.pdb
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\BussinessLayer.dll
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\Clouds.exe
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\GameOn.exe
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\Clouds.pdb
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\GameOn.pdb
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\BussinessLayer.pdb
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\ViewKeysForFinger.baml
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\ViewKeysForFinger.g.cs
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\ViewKeysForFinger.baml
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\ViewKeysForFinger.g.cs
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\ViewKeysForFinger.baml
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\ViewKeysForFinger.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing Tutor.exe
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing Tutor.pdb
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\bin\Debug\Typing Tutor.exe
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\bin\Debug\Typing Tutor.pdb
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\bin\Debug\BussinessLayer.dll
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\bin\Debug\Clouds.exe
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\bin\Debug\GameOn.exe
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\bin\Debug\Clouds.pdb
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\bin\Debug\GameOn.pdb
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\bin\Debug\BussinessLayer.pdb
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\bin\Debug\WPFToolkit.pdb
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\obj\x86\Debug\afterRegisteration.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\obj\x86\Debug\BureauBlack.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\obj\x86\Debug\freeText.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\obj\x86\Debug\GuestProgress.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\obj\x86\Debug\handResults.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\obj\x86\Debug\Learn.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\obj\x86\Debug\MainWindow.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\obj\x86\Debug\Options.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\obj\x86\Debug\Progress.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\obj\x86\Debug\Register.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\obj\x86\Debug\Results.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\obj\x86\Debug\ShinyRed.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\obj\x86\Debug\skillsResult.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\obj\x86\Debug\TouchType.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\obj\x86\Debug\ViewDifficultKeys.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\obj\x86\Debug\ViewKeysForFinger.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\obj\x86\Debug\WordTris.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\obj\x86\Debug\wordtrisResults.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\obj\x86\Debug\afterRegisteration.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\obj\x86\Debug\freeText.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\obj\x86\Debug\GuestProgress.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\obj\x86\Debug\handResults.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\obj\x86\Debug\Learn.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\obj\x86\Debug\Options.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\obj\x86\Debug\Progress.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\obj\x86\Debug\Register.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\obj\x86\Debug\Results.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\obj\x86\Debug\skillsResult.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\obj\x86\Debug\TouchType.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\obj\x86\Debug\ViewDifficultKeys.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\obj\x86\Debug\ViewKeysForFinger.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\obj\x86\Debug\WordTris.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\obj\x86\Debug\wordtrisResults.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\obj\x86\Debug\App.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing Tutor_MarkupCompile.cache
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing Tutor.g.resources
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing_Tutor.Properties.Resources.resources
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\42\Typing Tutor\Typing Tutor\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing Tutor.exe
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing Tutor.pdb
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\Typing Tutor.exe
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\Typing Tutor.pdb
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\BussinessLayer.dll
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\GameOn.exe
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\WPFToolkit.dll
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\GameOn.pdb
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\BussinessLayer.pdb
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\WPFToolkit.pdb
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\afterRegisteration.baml
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\freeText.baml
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\handResults.baml
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Learn.baml
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\MainWindow.baml
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Options.baml
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Progress.baml
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Register.baml
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Results.baml
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\skillsResult.baml
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\TouchType.baml
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\ViewDifficultKeys.baml
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\ViewKeysForFinger.baml
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\WordTris.baml
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\wordtrisResults.baml
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\afterRegisteration.g.cs
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\freeText.g.cs
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\handResults.g.cs
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Learn.g.cs
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\MainWindow.g.cs
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Options.g.cs
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Progress.g.cs
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Register.g.cs
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Results.g.cs
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\skillsResult.g.cs
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\TouchType.g.cs
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\ViewDifficultKeys.g.cs
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\ViewKeysForFinger.g.cs
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\WordTris.g.cs
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\wordtrisResults.g.cs
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\App.g.cs
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing Tutor_MarkupCompile.cache
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing Tutor.g.resources
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing_Tutor.Properties.Resources.resources
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing Tutor.exe
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing Tutor.pdb
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\bin\Debug\Typing Tutor.exe
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\bin\Debug\Typing Tutor.pdb
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\bin\Debug\BussinessLayer.dll
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\bin\Debug\Clouds.exe
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\bin\Debug\GameOn.exe
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\bin\Debug\Clouds.pdb
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\bin\Debug\GameOn.pdb
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\bin\Debug\BussinessLayer.pdb
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\bin\Debug\WPFToolkit.pdb
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\obj\x86\Debug\afterRegisteration.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\obj\x86\Debug\freeText.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\obj\x86\Debug\GuestProgress.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\obj\x86\Debug\handResults.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\obj\x86\Debug\Learn.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\obj\x86\Debug\MainWindow.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\obj\x86\Debug\Options.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\obj\x86\Debug\Progress.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\obj\x86\Debug\Register.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\obj\x86\Debug\Results.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\obj\x86\Debug\skillsResult.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\obj\x86\Debug\TouchType.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\obj\x86\Debug\ViewDifficultKeys.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\obj\x86\Debug\ViewKeysForFinger.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\obj\x86\Debug\WordTris.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\obj\x86\Debug\wordtrisResults.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\obj\x86\Debug\afterRegisteration.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\obj\x86\Debug\freeText.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\obj\x86\Debug\GuestProgress.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\obj\x86\Debug\handResults.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\obj\x86\Debug\Learn.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\obj\x86\Debug\Options.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\obj\x86\Debug\Progress.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\obj\x86\Debug\Register.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\obj\x86\Debug\Results.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\obj\x86\Debug\skillsResult.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\obj\x86\Debug\TouchType.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\obj\x86\Debug\ViewDifficultKeys.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\obj\x86\Debug\ViewKeysForFinger.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\obj\x86\Debug\WordTris.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\obj\x86\Debug\wordtrisResults.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\obj\x86\Debug\App.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing Tutor_MarkupCompile.cache
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing Tutor.g.resources
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing_Tutor.Properties.Resources.resources
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\43\Typing Tutor\Typing Tutor\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\WPFToolkit.pdb
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing Tutor.exe
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing Tutor.pdb
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\bin\Debug\Typing Tutor.exe
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\bin\Debug\Typing Tutor.pdb
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\bin\Debug\BussinessLayer.dll
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\bin\Debug\Clouds.exe
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\bin\Debug\GameOn.exe
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\bin\Debug\Clouds.pdb
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\bin\Debug\GameOn.pdb
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\bin\Debug\BussinessLayer.pdb
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\bin\Debug\WPFToolkit.pdb
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\obj\x86\Debug\afterRegisteration.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\obj\x86\Debug\freeText.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\obj\x86\Debug\GuestProgress.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\obj\x86\Debug\handResults.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\obj\x86\Debug\Learn.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\obj\x86\Debug\MainWindow.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\obj\x86\Debug\Options.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\obj\x86\Debug\Progress.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\obj\x86\Debug\Register.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\obj\x86\Debug\Results.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\obj\x86\Debug\skillsResult.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\obj\x86\Debug\TouchType.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\obj\x86\Debug\ViewDifficultKeys.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\obj\x86\Debug\ViewKeysForFinger.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\obj\x86\Debug\WordTris.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\obj\x86\Debug\wordtrisResults.baml
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\obj\x86\Debug\afterRegisteration.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\obj\x86\Debug\freeText.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\obj\x86\Debug\GuestProgress.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\obj\x86\Debug\handResults.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\obj\x86\Debug\Learn.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\obj\x86\Debug\Options.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\obj\x86\Debug\Progress.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\obj\x86\Debug\Register.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\obj\x86\Debug\Results.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\obj\x86\Debug\skillsResult.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\obj\x86\Debug\TouchType.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\obj\x86\Debug\ViewDifficultKeys.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\obj\x86\Debug\ViewKeysForFinger.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\obj\x86\Debug\WordTris.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\obj\x86\Debug\wordtrisResults.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\obj\x86\Debug\App.g.cs
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing Tutor_MarkupCompile.cache
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing Tutor.g.resources
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing_Tutor.Properties.Resources.resources
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Linda\Third Year Project\Nyoka1\Iteration 2\main\45\Typing Tutor\Typing Tutor\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\NumHandResults.baml
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\NumHandResults.g.cs
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\ViewNumDifficultkeys.baml
+H:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\ViewNumDifficultkeys.g.cs
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\NumHandResults.baml
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\ViewNumDifficultkeys.baml
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\NumHandResults.g.cs
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\ViewNumDifficultkeys.g.cs
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\NumHandResults.baml
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\ViewNumDifficultkeys.baml
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\NumHandResults.g.cs
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\ViewNumDifficultkeys.g.cs
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing Tutor.exe
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing Tutor.pdb
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\Typing Tutor.exe
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\Typing Tutor.pdb
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\BussinessLayer.dll
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\Clouds.exe
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\GameOn.exe
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\WPFToolkit.dll
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\Clouds.pdb
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\GameOn.pdb
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\BussinessLayer.pdb
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\WPFToolkit.pdb
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\afterRegisteration.baml
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\freeText.baml
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\GuestProgress.baml
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\handResults.baml
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Learn.baml
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\MainWindow.baml
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\NumHandResults.baml
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Options.baml
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Progress.baml
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Register.baml
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Results.baml
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\skillsResult.baml
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\TouchType.baml
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\ViewDifficultKeys.baml
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\ViewKeysForFinger.baml
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\ViewNumDifficultkeys.baml
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\WordTris.baml
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\wordtrisResults.baml
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\afterRegisteration.g.cs
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\freeText.g.cs
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\GuestProgress.g.cs
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\handResults.g.cs
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Learn.g.cs
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\MainWindow.g.cs
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\NumHandResults.g.cs
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Options.g.cs
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Progress.g.cs
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Register.g.cs
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Results.g.cs
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\skillsResult.g.cs
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\TouchType.g.cs
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\ViewDifficultKeys.g.cs
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\ViewKeysForFinger.g.cs
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\ViewNumDifficultkeys.g.cs
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\WordTris.g.cs
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\wordtrisResults.g.cs
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\App.g.cs
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing Tutor_MarkupCompile.cache
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing Tutor.g.resources
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing_Tutor.Properties.Resources.resources
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\NumHandResults.baml
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\ViewNumDifficultkeys.baml
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\NumHandResults.g.cs
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\ViewNumDifficultkeys.g.cs
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\Typing Tutor.exe.config
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\Database\TouchTyping.mdb
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing Tutor_Content.g.cs
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\Typing Tutor.exe.config
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\Database\TouchTyping.mdb
+F:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing Tutor_Content.g.cs
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\Typing Tutor.exe.config
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\Database\TouchTyping.mdb
+J:\Nyoka\Try\Typing Tutor\Typing Tutor\obj\x86\Debug\Typing Tutor_Content.g.cs
+G:\Nyoka\Try\Typing Tutor\Typing Tutor\bin\Debug\WPFToolkit.pdb
